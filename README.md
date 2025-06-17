@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chenda001
 - 👀 I’m interested in coding.
-- 🌱 I’m currently Django - python
+- 🌱 I’m currently learning Django - python
 - 💞️ I’m looking to collaborate on website development.
 - 📫 How to reach me through my email chendaketer@gmail.com
 - 😄 Pronouns: she
