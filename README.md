@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on website development.
 - 📫 How to reach me through my email chendaketer@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: I enjoy coding.
+- ⚡ Fun fact: I am open to learning.
 
 <!---
 Chenda001/Chenda001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
